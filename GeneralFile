@@ -1,0 +1,6 @@
+React-native gifs dependency:
+Go to your Project and navigate to android>app>build.gradle and add the following to your dependencies inside build.gradle file."dependencies {
+    ...
+    // For animated GIF support
+    implementation 'com.facebook.fresco:animated-gif:2.5.0'
+}"
